@@ -6,7 +6,13 @@
 - we can switch language to german if you want to :)
 - if you want to add to the ReadMe, please use *Markdown* syntax; here is a cheat sheet: https://www.markdownguide.org/cheat-sheet/
 
-#ToDo
-- [ ] Everybody: Send me the ToDo list or update yourself
-- [ ] - [ ] Update the website
-- [ ] Contact the media
+# ToDo
+- [ ] Everybody: Send me (Richard) the ToDo list or update yourself
+- [ ] Lukas: push current state of the project to main
+- [ ] Lukas: improve on current design
+- [ ] Richard: Look into airbag simulation and implement for ball if possible
+- [ ] Robin: Create simulation using solid ball approximation
+- [ ] Robin: Send me the roadmap to add to the ReadMe
+
+# Plan for the project / Roadmap
+N.a.N
